@@ -32,8 +32,8 @@ jobs:
 
 
 
-      - name: '运行 【睡眠赚2】'
-        run: |
-          node ./workflow/feizao/smz2.js
-        env:
-          TZ: Asia/shanghai
+ #     - name: '运行 【睡眠赚2】'
+ #       run: |
+ #         node ./workflow/feizao/smz2.js
+  #      env:
+  #        TZ: Asia/shanghai
