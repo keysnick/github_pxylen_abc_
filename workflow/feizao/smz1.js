@@ -37,8 +37,9 @@ let jc = 0
   } else {
 //    ygkcurlArr.push($.getdata('ygkcurl'))
 //    ygkchdArr.push($.getdata('ygkchd'))
-    ygkcurlArr.push('coin=9&device=ios&double=1&imei=82fd9653c042c32ae65cb57f8b192427d605e08a&source=ios&uid=1286184&version=1.0.7')
-    ygkchdArr.push('{"Host":"sleep.zouluzhuan.com","Content-Type":"application/x-www-form-urlencoded","Cookie":"PHPSESSID=c792237507c1cfe7f55802f38ef46310; sleep_zouluzhuan=sleep181","Connection":"keep-alive","Proxy-Connection":"keep-alive","Accept":"*/*","User-Agent":"SMMon/1.0.7 (iPhone; iOS 14.5; Scale/3.00)","Accept-Language":"zh-Hans;q=1","Accept-Encoding":"gzip, deflate"}')
+    ygkcurlArr.push('coin=7&device=ios&double=1&imei=6843b610dbd282f2208b433bfe1c0162a907ccb4&source=ios&uid=1287448&version=1.0.7')
+                     
+    ygkchdArr.push('{"Host":"sleep.zouluzhuan.com","Content-Type":"application/x-www-form-urlencoded","Cookie":"PHPSESSID=ee45a5391f0298668123124b4921fa54; sleep_zouluzhuan=sleep181","Connection":"keep-alive","Proxy-Connection":"keep-alive","Accept":"*/*","User-Agent":"SMMon/1.0.7 (iPhone; iOS 14.4.2; Scale/2.00)","Accept-Language":"zh-Hans-CN;q=1","Accept-Encoding":"gzip, deflate"}')
 //    let ygkccount = ($.getval('ygkccount') || '1');
 //  for (let i = 2; i <= ygkccount; i++) {
 //    ygkcurlArr.push($.getdata(`ygkcurl${i}`))
